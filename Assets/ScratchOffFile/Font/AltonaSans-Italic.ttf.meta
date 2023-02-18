@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ae5dd3e032a5c36429369421e4ddafaa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Altona Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e7832f0e4db7d2945a6cfb82c56fae20, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
